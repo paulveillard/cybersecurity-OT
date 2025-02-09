@@ -38,6 +38,10 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ### What is Operational Technology (OT)?
 
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-OT/blob/main/img/ot-3.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 Operational Technology (aka: “OT”) refers to a broad range of programmable systems and devices that directly or indirectly interact with the physical environment. OT plays an active role across all sectors including manufacturing, energy, transportation, medical, and utilities. As OT becomes increasingly interconnected and integrated with IT networks, they become more vulnerable to large-scale cyber attacks. OT also increases the probability of catastrophic outcomes due to their control of the physical environment as opposed to data impacts in an IT environment.
 
 ### Significance of Operational Technology (OT)
