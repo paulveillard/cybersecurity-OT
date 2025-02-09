@@ -8,7 +8,7 @@ An ongoing & curated collection of awesome software best practices and technique
   - [Information](#information)
   - [Sections:](#sections)
     - [What is Operational Technology](#)
-    - [
+    - [Significance of Operational Technology (OT)](#)
     - [ICS\_challenge](#ics_challenge)
     - [ICS\_OSINT](#ics_osint)
       - [public ip browser](#public-ip-browser)
